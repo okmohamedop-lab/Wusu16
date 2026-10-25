@@ -1,0 +1,10 @@
+{
+  "name": "ofoq-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "متجر أفق — بطاقات ألعاب واشتراكات رقمية (Whop login + Whop checkout)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "DEV_MODE=1 node server.js" },
+  "engines": { "node": ">=20" },
+  "dependencies": {}
+}
